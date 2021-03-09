@@ -1,0 +1,13 @@
+body{
+     background-color: rgb(75, 74, 74);
+     color: antiquewhite;
+    
+}
+.jumbo-colur{
+     background-color: rgb(83, 81,81);
+}
+.myclass{
+     margin-block-start: -38px;
+     margin-inline: 280px;
+     
+}
